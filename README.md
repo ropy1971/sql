@@ -1,16 +1,31 @@
 
-# SQL
+# README.md
 
-# Status
+## introduction
+
+This repository is containing all resources dedicated to sql language.
+
+## status
 
 [PUBLIC]
 
-# Folders organization
+## folders organization
 
-# Comments
+There are some folders to organize resources.
 
-# License
+- [documents]()
+- [pictures]()
+- [references]()
+- [scripts]()
+- [templates]()
 
-Check the License file.
+## comments
 
-# Last update: 2021.03.14
+- Please feel free to contribute to these scripts. 
+- Fork and Clone are also availables.
+
+## license
+
+Check the [license]() file.
+
+## last update: 2021.06.22
