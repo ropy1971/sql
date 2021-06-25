@@ -9,7 +9,7 @@ This repository is containing all resources dedicated to sql language.
 
 [PUBLIC]
 
-## folders organization
+## content
 
 There are some folders to organize resources.
 
@@ -28,4 +28,4 @@ There are some folders to organize resources.
 
 Check the [license]() file.
 
-## last update: 2021.06.22
+## last updates: 2021.06.25
