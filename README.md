@@ -26,6 +26,6 @@ There are some folders to organize resources.
 
 ## license
 
-Check the [license]() file.
+Check the [license](./LICENSE) file.
 
 ## last updates: 2021.06.25
